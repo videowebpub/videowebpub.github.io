@@ -64,14 +64,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#fdfafa",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -113,13 +113,13 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#616161",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "imageSize": 4,
             "fontName": {
-              "name": "Roboto Slab",
-              "css": "'Roboto Slab', serif",
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "fontColor": "#fdfafa",
             "fontHoverColor": "@primaryColor"
@@ -141,7 +141,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -265,7 +265,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "<b>Les bénéfices du vidéo marketing</b>",
-          "text": "<b>La vidéo est un outil puissant pour maximiser les conversions.<br>Les études montrent qu’un internaute est plus enclin à acheter un produit, à contracter un service ou à entrer en relation avec la marque après avoir visionné une vidéo.</b>",
+          "text": "<b>La vidéo est un outil puissant pour maximiser les conversions.<br>Les études montrent qu’un internaute est plus enclin à acheter un produit, à contracter un service ou à entrer en relation avec la marque après avoir visionné une vidéo</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
           "_tags": [
             "Theme"
@@ -1747,13 +1747,13 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#616161",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "imageSize": 4,
             "fontName": {
-              "name": "Roboto Slab",
-              "css": "'Roboto Slab', serif",
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "fontColor": "#fdfafa",
             "fontHoverColor": "@primaryColor"
@@ -1775,7 +1775,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -3214,13 +3214,13 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#616161",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "imageSize": 4,
             "fontName": {
-              "name": "Roboto Slab",
-              "css": "'Roboto Slab', serif",
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "fontColor": "#fdfafa",
             "fontHoverColor": "@primaryColor"
@@ -3242,7 +3242,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -3479,13 +3479,13 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#616161",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "imageSize": 4,
             "fontName": {
-              "name": "Roboto Slab",
-              "css": "'Roboto Slab', serif",
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "fontColor": "#fdfafa",
             "fontHoverColor": "@primaryColor"
@@ -3507,7 +3507,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -3679,10 +3679,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -3724,13 +3724,13 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#616161",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "imageSize": 4,
             "fontName": {
-              "name": "Roboto Slab",
-              "css": "'Roboto Slab', serif",
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "fontColor": "#fdfafa",
             "fontHoverColor": "@primaryColor"
@@ -3752,7 +3752,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -3798,7 +3798,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.2
           },
-          "title": "<b>Nos prix</b>",
+          "title": "<b>Nos prix</b><b><br></b>",
           "text": "Combien coûte une vidéo publicitaire ? C’est vous qui décidez ! En effet, grâce à la facturation par minute, vous choisissez la longueur en fonction de votre budget. <br>&nbsp;Ainsi vous n’avez à vous soucier de rien.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "_tags": [
@@ -4066,13 +4066,13 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#616161",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "imageSize": 4,
             "fontName": {
-              "name": "Roboto Slab",
-              "css": "'Roboto Slab', serif",
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "fontColor": "#fdfafa",
             "fontHoverColor": "@primaryColor"
@@ -4094,7 +4094,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
@@ -4381,13 +4381,13 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#616161",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "imageSize": 4,
             "fontName": {
-              "name": "Roboto Slab",
-              "css": "'Roboto Slab', serif",
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "fontColor": "#fdfafa",
             "fontHoverColor": "@primaryColor"
@@ -4409,7 +4409,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
