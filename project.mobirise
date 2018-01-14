@@ -1,0 +1,4488 @@
+{
+  "settings": {
+    "name": "Video-mobirise",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#dc4e24",
+        "secondaryColor": "#39937c",
+        "successColor": "#1E7C3A",
+        "infoColor": "#1556b9",
+        "warningColor": "#FFD785",
+        "dangerColor": "#FF9685",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#124a0d",
+        "#71d0e7",
+        "#a39b8a",
+        "#474866",
+        "#232323",
+        "#1415d6",
+        "#4a4a4a"
+      ]
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 121,
+    "versionPublish": "4.5.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Accueil",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fdfafa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fdfafa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fdfafa",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fdfafa"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fdfafa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#dc4e24!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.05",
+            "imageSize": 4,
+            "fontName": {
+              "name": "Roboto Slab",
+              "css": "'Roboto Slab', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "fontColor": "#fdfafa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Formulaire demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-1b\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-vwp-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "page1.html#header1-4v",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "showArrow": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/mbr-1440x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#bdb39a",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/7Igr02bQk9s?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=7Igr02bQk9s",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0"
+          },
+          "title": "<br><br>Votre image de \"Marque\" sur le Web est importante<br><span style=\"font-weight: bold; font-style: italic;\"><br></span>",
+          "text": "<span style=\"font-style: normal;\">Une identité visuelle unique et représentative pour votre petite ou grande &nbsp;entreprise est primordial. &nbsp;</span><br><br>Si une image vaut déjà mille mots, imaginez la valeur d’une vidéo !&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#00040a",
+              "text-align": "center",
+              "font-size": "60px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            },
+            ".heading-title I": {
+              "font-size": "46px",
+              "color": "#e96127"
+            },
+            ".heading-title SPAN": {
+              "font-size": "36px",
+              "color": "#0c49e1"
+            },
+            ".heading-text": {
+              "font-size": "30px",
+              "color": "#fffcf6",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "center"
+            },
+            ".heading-title B": {
+              "font-size": "48px",
+              "color": "#e96127"
+            },
+            ".heading-text B": {
+              "font-size": "25px",
+              "color": "#fffffd",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".heading-text SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header4-0"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#000000"
+            },
+            ".heading-text": {
+              "color": "#000000"
+            },
+            ".heading-text B": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "3",
+            "paddingBottom": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": "0.4"
+          },
+          "title": "<b>Les bénéfices du vidéo marketing</b>",
+          "text": "<b>La vidéo est un outil puissant pour maximiser les conversions.<br>Les études montrent qu’un internaute est plus enclin à acheter un produit, à contracter un service ou à entrer en relation avec la marque après avoir visionné une vidéo.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-33"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#bdb39a",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/3myUTavov0U?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=3myUTavov0U",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#264a54",
+            "overlayOpacity": "0.1"
+          },
+          "title": "<br>Notre mission...<br>",
+          "text": "Propulser à un niveau supérieur votre entreprise  sur le web afin d’augmenter votre clientèle et vos ventes.  À rendre l’identité visuelle de l'entreprise, de ses produits et de ses services attrayante et accessible à tous les publics.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#e91a1a",
+              "font-size": "100px"
+            },
+            ".heading-text": {
+              "color": "#e91a1a",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header4-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#30a2d2"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "right",
+              "color": "#1f8068"
+            },
+            "B": {
+              "color": "#30a2d2"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "<b>Une vidéo se partage facilement sur les réseaux sociaux. <br>Plus les gens voient votre vidéo, plus ils visitent votre site.</b><br><b><br></b>",
+          "meta": "<b>Que vous soyez une grande PME à vocation nationale ou un petit indépendant sur le marché local, vous pouvez bénéficier de la force de frappe d’une campagne  avec des bande vidéos.</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2z"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            "H1": {
+              "font-size": "46px",
+              "color": "#000000"
+            },
+            ".round-text B": {
+              "color": "#fffffd",
+              "font-size": "18px"
+            },
+            "B": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "showIcons": false,
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "iconsNumber": "one",
+            "imageSize": "54",
+            "containerColor1": "#120c5a",
+            "containerColor2": "#54f9ff",
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "text1": "<b>Nous proposons des vidéos à prix très abordable, car nous travaillons à partir de modèles existants, qu’il est possible de customiser selon vos besoins, afin de les rendre uniques.<br>Nous mettons à votre disposition une liste de modèles adapté</b>s à <b>vos besoins, créons un scénario avec vos textes et logo.<br></b><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Votre vidéo clés en main&nbsp;<br><br>",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/msg-box/mac2.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "play-circle",
+              "family": "FontAwesome",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=QfdiRZ83XhE&index=39&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#30a2d2"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "25px"
+            },
+            ".heading-title": {
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "paddingTop": "4",
+            "paddingBottom": "7",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/frog-1347642-1926-1920x1276.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/-GU2hR2edqo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=-GU2hR2edqo&index=46&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.1"
+          },
+          "title": "<b><br></b><br><b>Notre boutique \"modèle\" vidéo</b><br><b><br></b>",
+          "text": "Venez voir plus de <b>350 vidéos </b>&nbsp;personnalisable &nbsp;à partir de 45 $ seulement. Intro, action live, conclusion, logo, texte<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Boutique en ligne</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#2e3a3d"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/intro/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v3-video-call-computer mbr-iconfont mbr-iconfont-btn\"></span>Vidéo \"Intro\"</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/conclusion/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v4-video mbr-iconfont mbr-iconfont-btn\"></span>Vidéo\"Conclusion\"<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/live-action/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-video-message mbr-iconfont mbr-iconfont-btn\"></span>Vidéo\"Action live\"<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/medias-sociaux/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"imind-flash-video mbr-iconfont mbr-iconfont-btn\"></span>Vidéo\"Médias sociaux\"<br></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "buttons1-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-36"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitles": true,
+            "showTabsList": false,
+            "showButtons": false,
+            "tabs": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tabs1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#dcd9d9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<b>Une boutique en ligne de \"modèles\"</b>",
+          "title1": "<b>Personnaliser un de nos modèle</b>",
+          "title2": "Bootstrap builder",
+          "title3": "Trendy website blocks",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
+          "text1": "1- Choisir votre modèle de vidéo<br>2- Communiquer avec nous<br>2- Nous faire parvenir vos fichiers, logo,texte etc.<br>3- En quelque heures vous recevrez votre vidéo personnalisée<br><br><b>C'est aussi simple que ça!</b>",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>8 internautes sur 10 préfèrent regarder la vidéo avant de lire les textes d’un site</li>",
+          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-online-shopping1 mbr-iconfont mbr-iconfont-btn\"></span>Boutique En ligne</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x300.png",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "Boutique vidéo en ligne"
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card.png",
+              "width": 600
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "tabs3",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            },
+            "B": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "tabs3-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "36",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pointing-2649315-1920-2-1920x1281.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#fffffd",
+            "containerColor2": "#a33725",
+            "containerColor3": "#101007",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/06.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=OqvvprgOtEM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<br>On en discute?<br><br>",
+          "text": "Vous hésitez à vous lancer ? Vous n’avez pas d’idées sur la façon dont présenter votre entreprise, vos produits ou vos services ?<br><br><br><br> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html#form3-10\" data-toolbar=\"-mbrBtnMove\">Communiquez avec nous</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-35",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#fffffd",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-26"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1e"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "3",
+            "showFeaturesImages": true,
+            "iconsBgColor": "#1321ed",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/mbr-1617x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/RkC1eeHfuG0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=RkC1eeHfuG0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#2ad0ed",
+            "overlayOpacity": "0.2"
+          },
+          "title": "<b>Des solutions adaptables pour vous</b>",
+          "text": "<b>Nous allons réaliser des animations vidéos graphiques professionnelles et personnalisées qui donnera une vision plus dynamique et actuelle de votre entreprise.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Commencer</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "film-video",
+              "family": "iconsMind",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "40",
+              "color": "#850c0c"
+            }
+          },
+          "title1": "<span style=\"font-style: normal;\">&nbsp;Montage vidéo publicitaire personnalisé</span>",
+          "subtitle1": "Awesome",
+          "text1": "<b>Vous avez déjà des vidéos mais avez besoin d'ajouter un intro&nbsp;personnalisé avec votre Logo ou d'une conclusion avec&nbsp;demande d'action? Pas de problème ont s'en occupe!</b>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-secondary\" href=\"page1.html#content5-j\" target=\"_blank\">En savoir plus</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "40",
+              "color": "#850c0c"
+            }
+          },
+          "title2": "&nbsp;Une solution simple?<br>Boutique de modèle vidéo",
+          "subtitle2": "Awesome",
+          "text2": "<b>Nous avons plus de 350&nbsp;vidéos modèles ou nous pouvons incorporer votre logo ou texte à partir de 45$<br>Peu importe l'industrie ou le produit, du restaurant au coiffeur, de l'immobilier au club d'entrainement, du spas au déménageur, nous avons des modèles pour vous</b>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-secondary\" href=\"page1.html#content5-m\" target=\"_blank\">Voir les modèles</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "rectangle-frame-12",
+              "family": "icon54-v4",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "40",
+              "color": "#850c0c"
+            }
+          },
+          "title3": "Création de Logo, affiche web,<br>bandeau facebook",
+          "subtitle3": "Awesome",
+          "text3": "<b>Besoin d'un bandeau publicitaire pour votre facebook, youtube ou autre?<br>Une annonce pour vos médias sociaux, une promotion, peu importe votre projet, il nous intéresse!</b>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-secondary\" href=\"page1.html#content5-j\" target=\"_blank\">En savoir plus</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#1321ed",
+              "border-color": "#1321ed"
+            },
+            ".card-title": {
+              "text-align": "center",
+              "font-size": "18px",
+              "color": "#0c49e1"
+            },
+            ".card-text": {
+              "font-size": "14px"
+            },
+            ".heading-title": {
+              "color": "#0717a4",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "60px"
+            },
+            ".heading-text": {
+              "color": "#0717a4",
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "features2-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "45",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColorRadio": true,
+            "bgColor": "#4a729e"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/mbr-22-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Ej9eUr9bjYo",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "title": "Un \"LOOK\" professionnel",
+          "text": "Les Prospects font beaucoup plus confiance aux sites ou aux entreprises qui utilisent la vidéo pour diffuser leurs offres. &nbsp;Nos services de marketing vous permettront &nbsp;de démarrer et d’exploiter rapidement la puissance de la vidéo publicitaire en ligne.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "20px",
+              "color": "#fffffd"
+            },
+            "H3": {
+              "font-size": "48px",
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            }
+          },
+          "_anchor": "content8-4"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-27"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "48px"
+            },
+            "P": {
+              "color": "#1415d6"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "title": "<b>Quelques modèles de vidéo personnalisable</b>",
+          "meta": "Par videowebpub - 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1g"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "showIcons": false,
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "iconsNumber": 1,
+            "imageSize": "60",
+            "containerColor1": "#120c5a",
+            "containerColor2": "#54f9ff",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "text1": "Aujourd’hui, la vidéo est le moyen le plus efficace pour capter l’attention des internautes et transmettre votre message.",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "La solution c'est la vidéo",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/msg-box/mac2.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=xgo2voVBaYQ",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3c"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "#dcd9d9",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "intro/logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-2-23-45-36-957755.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=5k-WrBlro0E",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "caption": "Animation",
+                "active": false
+              },
+              {
+                "tags": "video d'animation",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-52-42-700546.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=sWmwm733nEQ&list=UUWKGRzgN9z7ZrobjAUPgq8g&index=51",
+                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "alt": "",
+                "caption": "Vidéo d'animation&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "intro/logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-49-29-301973.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Yx85jImwlmI",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "alt": "",
+                "caption": "Intro/Logo",
+                "active": false
+              },
+              {
+                "tags": "Animation",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-50-40-652711.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=VtB6bIw2ZzU&list=UUWKGRzgN9z7ZrobjAUPgq8g",
+                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "alt": "",
+                "caption": "Vidéo d'animation",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-54-1-854543.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=D35Lqrc2fLQ&list=UUWKGRzgN9z7ZrobjAUPgq8g&index=33",
+                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "alt": "",
+                "caption": "Intro/Logo",
+                "active": false
+              },
+              {
+                "tags": "Animation ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-54-53-310491.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "alt": "",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Y1186IBCT60&index=48&list=UUWKGRzgN9z7ZrobjAUPgq8g",
+                "caption": "Animation et Texte",
+                "active": false
+              },
+              {
+                "tags": "intro/logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-10-54-55-662102.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ujuIUIwDnrY",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "caption": "Intro/Logo",
+                "active": false
+              },
+              {
+                "tags": "Animation et Logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-43-21-971958.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "alt": "",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=m8MzIC-isRw",
+                "caption": "Animation/Logo",
+                "active": false
+              },
+              {
+                "tags": "",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-22-12-18-536656.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=eHI55FOXfsc&index=35&list=UUWKGRzgN9z7ZrobjAUPgq8g",
+                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "alt": "",
+                "caption": "Intro/Logo",
+                "active": false
+              },
+              {
+                "tags": "intro/logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-10-56-11-490872.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ilggj1PHhog",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "caption": "Animation facebook",
+                "active": false
+              },
+              {
+                "tags": "intro/logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-11-3-23-784996.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=AaAf51OIsbU",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "caption": "Intro/Logo",
+                "active": false
+              },
+              {
+                "tags": "intro/logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-2-23-46-52-70582.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=oLg0HmLsDhU",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "caption": "Animation",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "Tout",
+          "_name": "gallery3",
+          "_anchor": "gallery3-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "36px",
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#2b0fed"
+            },
+            "B": {
+              "color": "#02050e",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgColor": "#fffffd"
+          },
+          "title": "<b>Quelque une de nos &nbsp;créations pour page Facebook</b><b><br></b>",
+          "meta": "&nbsp;Par videowebpub.com 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#fffffd",
+            "timeout": "5",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/affiche-video-web-pub-1640x856.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "IMAGE SLIDER",
+                "overlay": false,
+                "overlayColor": "#fffffd",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/epreuve-facebook-4-1200x457.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "IMAGE SLIDE",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/meditation-facebook-1640x856.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.1",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-ae1w8f-1280x700.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/le-train-2-1660x876.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vive-les-vacances-1200x457.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/un-cafe-1050x600.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-bxndtp-1200x457.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-mxxp5h-1200x457.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-shmvlf-1200x900.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/haloween-1200x457.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-1221x696.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/banniere-youtube-2000x1125.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-left.png\">",
+          "arrowright": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-right.png\">",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-1h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#000000"
+            },
+            ".heading-text": {
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "22px"
+            },
+            ".heading-text B": {
+              "font-size": "21px",
+              "color": "#000000"
+            },
+            ".heading-title B": {
+              "font-size": "48px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "paddingTop": "7",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/colours-004-result-800x541.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "",
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.2"
+          },
+          "title": "<b>Vous ne savez pas par ou commencer ?</b>",
+          "text": "<b>Si vous avez un projet et voulez en parler, n'hésitez pas, nous sommes là pour vous.<br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mailto:domben@videowebpub.com\" data-toolbar=\"-mbrBtnMove\">Besoin d'aide?<br><br>Envoyez nous un courriel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html#content5-14\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Formulaire de demande<br>ou<br>Des questions ?<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-29"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2b4484",
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Partager cette page!</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "share1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "text-align": "center",
+              "color": "#fffffd"
+            }
+          },
+          "_anchor": "share1-w"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Videowebpub - Tout droit réservé",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-2b"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Nos services",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fdfafa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fdfafa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fdfafa",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fdfafa"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fdfafa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#dc4e24!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.05",
+            "imageSize": 4,
+            "fontName": {
+              "name": "Roboto Slab",
+              "css": "'Roboto Slab', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "fontColor": "#fdfafa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Formulaire demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-1b\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-vwp-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "page1.html#header1-4v",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#fffffd"
+            },
+            ".heading-text": {
+              "color": "#fffffd",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/rCdetGhQJ88?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=rCdetGhQJ88",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#14171d",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Nos services et notre mission...<br><br>",
+          "text": "Propulser à un niveau supérieur votre entreprise sur le web afin d’augmenter votre clientèle et vos ventes. À rendre l’identité visuelle de l'entreprise, de ses produits et de ses services attrayante et accessible à tous les publics.<br><br>Concevoir tous les éléments web/graphiques de façon à rendre votre stratégie commerciale visible et attractive auprès des publics-cibles. Le tout à un prix abordable.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-25"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/QNQBHTA7apo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=QNQBHTA7apo",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#2b4484",
+            "overlayOpacity": "0"
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p>1</p>",
+          "title1": "Montage vidéo publicitaire personnalisé",
+          "subtitle1": "Awesome",
+          "text1": "Montage vidéo publicitaire de toute sorte.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p>2</p>",
+          "title2": "Notre Boutique \"Modèle\"",
+          "subtitle2": "Awesome",
+          "text2": "Plus de 350 vidéos modèles à personalisé à votre image en incorporant votre logo, text et couleur pour par la suite l'incorporer à d'autre outils publicitaire.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p>3</p>",
+          "title3": "Création graphisme",
+          "subtitle3": "Awesome",
+          "text3": "Création de logos, d'affiches, de bandeaux publicitaire en images ou en vidéos pour vos médias sociaux et bien plus.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features12",
+          "_anchor": "features12-1m",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".card-title": {
+              "color": "#14171d"
+            },
+            ".card-text": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#14171d"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "22px",
+              "color": "#000000"
+            },
+            ".heading-title": {
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "22px"
+            },
+            ".heading-title B": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#757744",
+            "containerColor2": "#fffcf6",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/tZeNhXQ7VY0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=tZeNhXQ7VY0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.1"
+          },
+          "title": "<b>Notre boutique \"modèle\" vidéo</b>",
+          "text": "Venez voir plus de <b>350 vidéos </b>&nbsp;personnalisable <b>&nbsp;à partir de 45 $</b> seulement.<br> Intro, action live, conclusion, logo, texte",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">350 modèles personnalisables</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-21"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-37"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "20px",
+              "text-align": "center"
+            },
+            ".heading-title": {
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "46px"
+            },
+            ".heading-title B": {
+              "font-size": "48px"
+            },
+            ".heading-text B": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "paddingTop": "3",
+            "paddingBottom": "7",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/frog-1347642-1926-1920x1276.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#0c4a5f",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<br><br><br><b>Notre boutique \"modèle\" vidéo</b><b><br></b>",
+          "text": "<b>Personnaliser un de nos modèle</b><br><br><b>C'est aussi simple que ça !</b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voir la Boutique&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#46490f"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/intro/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v3-video-call-computer mbr-iconfont mbr-iconfont-btn\"></span>Vidéo \"Intro\"</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/conclusion/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v4-video mbr-iconfont mbr-iconfont-btn\"></span>Vidéo\"Conclusion\"<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/live-action/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-video-message mbr-iconfont mbr-iconfont-btn\"></span>Vidéo\"Action live\"<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/categorie-produit/medias-sociaux/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"imind-flash-video mbr-iconfont mbr-iconfont-btn\"></span>Vidéo\"Médias sociaux\"<br></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "buttons1-24"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitles": false,
+            "showTabsList": false,
+            "showButtons": false,
+            "tabs": "1",
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/tabs1.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#b7b8bb",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/-nw90JvifsI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=-nw90JvifsI",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.1"
+          },
+          "title": "<b>Une boutique en ligne de \"modèles\"</b>",
+          "title1": "<b>Personnaliser un de nos modèle</b>",
+          "title2": "Bootstrap builder",
+          "title3": "Trendy website blocks",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
+          "text1": "<b>1- Choisir votre modèle de vidéo<br>2- Communiquer avec nous<br>2- Nous faire parvenir vos fichiers, logo,texte etc.<br>3- En quelque heures vous recevrez votre vidéo personnalisée<br><br>C'est aussi simple que ça !</b>",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-online-shopping1 mbr-iconfont mbr-iconfont-btn\"></span>Boutique En ligne</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x3001.png",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "Boutique vidéo en ligne"
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card.png",
+              "width": 600
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "tabs3",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "20px",
+              "color": "#fffffd"
+            },
+            "B": {
+              "color": "#fffffd",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "tabs3-22"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "46px",
+              "color": "#fffffd"
+            },
+            ".heading-text": {
+              "font-size": "24px",
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "6",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-37-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#dcd9d9",
+            "containerColor2": "#086e66",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#424242",
+            "overlayOpacity": "0.4"
+          },
+          "title": "<b>#1- Vidéos \"modèles\" adaptables</b>",
+          "text": "*Notre objectif est de vous fournir rapidement une vidéo originale et de qualité pour mettre en avant les produits ou &nbsp;services proposés par votre entreprise. Vous allez adorer !!!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-l"
+        },
+        {
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            ".round-text": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "showIcons": false,
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "iconsNumber": "one",
+            "imageSize": "57",
+            "containerColor1": "#f2e2e1",
+            "containerColor2": "#fdde19",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-38-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a0b9ac",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<b>&nbsp;Des modèles vidéos d'animations &nbsp;adaptée à votre image</b>",
+          "text1": "1- Sélectionner votre modèle<br>2-Envoyé nous votre texte et ou logo<br>3-Choisissez vos couleurs<br><br>Et voilà en quelques heures ont vous enverra votre Vidéo personnalisée avec votre matériel !<br><br><br>",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/msg-box/mac2.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "syncronize-1",
+              "family": "icon54-v3",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=QlvFXN6RsxU&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fdde19"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showBullets": true,
+            "bgColor": "#fffffd",
+            "timeout": "5",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider06.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=ujuIUIwDnrY",
+                "title": "<b>intro-logo</b>",
+                "overlay": false,
+                "overlayColor": "#a47922",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider07.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=O3x-yp5HaAY",
+                "title": "Action live",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider08.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=2dB7GNwzYOw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.1",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider06.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=3-BuZ3Y5Dno",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider00.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=hs5QI_8Dzhg",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2b4484",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-left.png\">",
+          "arrowright": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-right.png\">",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "46px",
+              "color": "#fffffd"
+            },
+            ".heading-text": {
+              "font-size": "20px",
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/innovation-2933014_1920%202-1920x673.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "containerColor1": "#dcd9d9",
+            "containerColor2": "#1f8950",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "#2- Montage à partir d'une image ou vidéo existante",
+          "text": "Si vous avez des vidéos ou des images mais aimeriez les personnaliser à votre marque de commerce afin d'en faire un vidéo MP4 complète. Nous pouvons le faire pour vous en r'ajoutant des intros, des conclusions et des incitation à l'action. Le résultat vous charmera!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-i"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "#fffffd",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-29-2-136372.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=VtB6bIw2ZzU",
+                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "alt": "",
+                "caption": "Montage noël",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-31-35-8618.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=vMDw70S3y9Y",
+                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "alt": "",
+                "caption": "Montage Noël 2",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-53-24-229373.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uZIZ8YYBra8",
+                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "alt": "",
+                "caption": "Pub Courtier",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-56-38-85463.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=L63uZ7AjNws",
+                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "alt": "",
+                "caption": "Maison à vendre",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#000000",
+              "font-size": "46px"
+            },
+            ".heading-text": {
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            ".heading-title B": {
+              "color": "#fffffd"
+            },
+            ".heading-text B": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/butterfly-1127666-1921-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "containerColor1": "#1f8950",
+            "containerColor2": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<b>#3- Service graphisme</b>",
+          "text": "<b>&nbsp;Besoin d'un logo, d'une affiche promotionnelle ou publicitaire.<br>                               Peu importe l'évênement nous pouvons vous créer un montage publicitaire selon vos besoins.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-j"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "page",
+            "theme": "crystal",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-shmvlf-2-800x586.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-shmvlf-2-1200x900.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-shmvlf-2-65x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-meraks-2-602x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-meraks-2-800x800.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-meraks-2-48x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-ae1w8f-3-800x431.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-ae1w8f-3-1280x700.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-ae1w8f-3-85x45.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-mxxp5h-2-799x304.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-mxxp5h-2-1200x457.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-mxxp5h-2-85x32.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/banniere-youtube-2-800x450.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/bannie%CC%80re%20%20youtube%202-2000x1125.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/banniere-youtube-2-85x47.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-800x456.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-1221x696.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-84x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bonne-annee-2018-800x600.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/bonne%20anne%CC%81e%202018-1200x900.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/bonne-annee-2018-64x48.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/a-dreamy-world-cover-fb-32-800x309.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/a_dreamy_world_-_cover_fb%20(32)-815x315.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/a-dreamy-world-cover-fb-32-85x32.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/tournesols-fb-cover-1-800x309.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/tournesols_-_fb_cover-1-815x315.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tournesols-fb-cover-1-85x32.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cover-fb-baden-wurttemberg-in-spring-germany-800x309.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/cover_fb_%20baden-wu%CC%88rttemberg%20in%20spring,%20germany-815x315.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/cover-fb-baden-wurttemberg-in-spring-germany-85x32.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/yacht-boat-fb-cover-3-800x309.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/yacht_boat_fb_cover%20(3)-815x315.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/yacht-boat-fb-cover-3-85x32.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hummingbirds-facebook-cover-800x309.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/hummingbirds-facebook_cover-815x315.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/hummingbirds-facebook-cover-85x32.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/imagination-couverture-facebook-21-800x295.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/imagination%20couverture%20facebook%20(21)-850x314.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/imagination-couverture-facebook-21-85x31.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#fffffd",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "800x600",
+            "width": "800",
+            "height": "600"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1797x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<br><b>Soyez un pas devant la compétition</b><br>",
+          "text": "<b><br></b><br><b>Videowebpub</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page5.html#content5-1x\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>Les bénéfices &nbsp;du vidéo marketing<br>En savoir plus &nbsp; &nbsp;<br></a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/light-bulb-1002783-1920-1588x1920.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<b><br></b><b>Pourquoi des vidéos?</b>",
+          "subtitle1": "Awesome",
+          "text1": "La vidéo vous<b> démarque</b> de la foule et <b>attire l’attention</b> de votre public cible en vous aidant à paraître plus <b>professionnel</b>. Les vidéos sont tellement plus impactantes comparées aux traditionnelles publicité texte.<br> Utilisée correctement, la bande vidéo promotionnelle &nbsp;peut être un <b>moyen</b> <b>incroyable</b> pour transmettre un message à vos consommateurs. ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/stairs-e831b4072d-640-426x640.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title2": "<b><br></b><b>Notre Mission</b>",
+          "subtitle2": "Awesome",
+          "text2": "<b>Propulser </b>à un niveau supérieur votre entreprise sur le web afin <b>d’augmenter </b>votre clientèle et vos ventes. À rendre l’identité visuelle de l'entreprise, de ses produits et de ses services attrayante et accessible à tous les publics.<br><b>Concevoir</b> tous les éléments <b>web/graphiques </b>de façon à rendre votre stratégie commerciale <b>visible</b> et <b>attractive</b> auprès des publics-cibles.  <b>Le tout à un prix abordable</b>.&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features7",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".heading-title": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            ".card-text": {
+              "font-size": "14px"
+            },
+            ".heading-title B": {
+              "font-size": "46px",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "features7-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#000000"
+            },
+            ".heading-text": {
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "22px"
+            },
+            ".heading-text B": {
+              "font-size": "21px",
+              "color": "#000000"
+            },
+            ".heading-title B": {
+              "font-size": "48px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "paddingTop": "5",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/confused-2681507-1920-2-1920x1281.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "",
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.4"
+          },
+          "title": "<br><br><b>Vous ne savez pas par ou commencer ?</b>",
+          "text": "<b>Si vous avez un projet et voulez en parler, n'hésitez pas, nous sommes là pour vous.<br></b><br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mailto:domben@videowebpub.com\" data-toolbar=\"-mbrBtnMove\">Besoin d'aide?<br><br>Envoyez nous un courriel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html#content5-14\" data-toolbar=\"-mbrBtnMove\">Formulaire de demande<br>ou<br>Des questions ?<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1t"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3a"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "formBg": "#cfcccc",
+            "formHeader": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/abstract-16044-result-800x533.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#7c7979",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/oXJGcPNCJBI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=oXJGcPNCJBI&index=11&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "<b>Envoyez nous vos suggestions</b>",
+          "text": "<b>La voie de votre réussite débute ici!</b><br><br><b><br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Nous communiquerons avec vous rapidement",
+          "form": {
+            "action": "dominiquebenoit@hotmail.ca",
+            "alerts": {
+              "success": "Merci d'avoir rempli notre formule."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Votre nom*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Votre courriel*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Votre téléphone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Votre message ou demande"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoyer votre demande</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form": {
+              "background": "#cfcccc"
+            },
+            ".form-title": {
+              "font-size": "18px"
+            },
+            ".heading-text B": {
+              "font-size": "24px",
+              "color": "#fffffd"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            ".heading-title B": {
+              "color": "#fffffd"
+            },
+            ".heading-title": {
+              "color": "#fffffd"
+            }
+          },
+          "_anchor": "form1-2a"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Formulaire demande 1",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fdfafa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fdfafa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fdfafa",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fdfafa"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fdfafa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#dc4e24!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.05",
+            "imageSize": 4,
+            "fontName": {
+              "name": "Roboto Slab",
+              "css": "'Roboto Slab', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "fontColor": "#fdfafa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Formulaire demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-1b\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-vwp-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "page1.html#header1-4v",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "18px"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/colours-138-result-800x533.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#6ff5d5",
+            "containerColor2": "#143e7c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/K06sO27YGeU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=K06sO27YGeU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#050f30",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Vous êtes sur la bonne voie...<br>Celle de la réussite<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-15"
+        },
+        {
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "color": "#616161",
+              "border-color": "#616161",
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".heading": {
+              "background": "#0e5087"
+            },
+            ".heading-title B": {
+              "font-size": "32px"
+            },
+            ".heading-title": {
+              "text-align": "center"
+            },
+            ".heading-text": {
+              "text-align": "center",
+              "font-size": "17px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".heading-text SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".form-title": {
+              "text-align": "center",
+              "font-size": "25px",
+              "color": "#f1e317"
+            },
+            ".form-title SPAN": {
+              "font-size": "25px",
+              "color": "#fffffd",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showCheckbox": false,
+            "formBg": "#0e5087",
+            "formHeader": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/lighthouse-e03db10b2d-640-428x640.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/GJiMgohopgU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=GJiMgohopgU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<b>Formulaire à remplir</b>",
+          "text": "Vous avez une idée ou une demande pour une vidéo publicitaire?<br><span style=\"font-style: normal;\">Communiquer avec nous dès aujourd'hui</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "<span style=\"font-style: normal;\">Peu importe votre projet...il nous intèresse!</span>",
+          "form": {
+            "action": "domben@videowebpub.com",
+            "alerts": {
+              "success": "Merci d'avoir rempli le formulaire.\n\nNous communiquerons rapidement avec vous."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Courriel*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Téléphone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoyer</a>",
+          "checkbox": "I agree to the <a href=\"http://mobirise.com\">terms</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-10"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Formulaire demande 2",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fdfafa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fdfafa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fdfafa",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fdfafa"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fdfafa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#dc4e24!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.05",
+            "imageSize": 4,
+            "fontName": {
+              "name": "Roboto Slab",
+              "css": "'Roboto Slab', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "fontColor": "#fdfafa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Formulaire demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-1b\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-vwp-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "page1.html#header1-4v",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "18px"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/colours-138-result-800x533.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#6ff5d5",
+            "containerColor2": "#143e7c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/K06sO27YGeU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=K06sO27YGeU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#050f30",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Vous êtes sur la bonne voie...<br>Celle de la réussite<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-14"
+        },
+        {
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "color": "#616161",
+              "border-color": "#616161",
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".heading": {
+              "background": "#2889d2"
+            },
+            ".heading-text": {
+              "text-align": "left",
+              "font-size": "21px"
+            },
+            ".heading-title": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showCheckbox": false,
+            "formBg": "#2889d2",
+            "formHeader": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3454a6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/c2D_hVlCu7c?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=c2D_hVlCu7c&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT&index=16",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0"
+          },
+          "title": "Envoyer &nbsp;une demande ou vos questions",
+          "text": "Peut importe votre demande ou vos questions vous aurez des réponses!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
+          "form": {
+            "action": "dominiquebenoit@hotmail.ca",
+            "alerts": {
+              "success": "Merci d'avoir utilisé notre formulaire"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Courriel*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Téléphone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoie message</a>",
+          "checkbox": "I agree to the <a href=\"http://mobirise.com\">terms</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-13"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Nos prix",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fdfafa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fdfafa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fdfafa",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fdfafa"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fdfafa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#dc4e24!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.05",
+            "imageSize": 4,
+            "fontName": {
+              "name": "Roboto Slab",
+              "css": "'Roboto Slab', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "fontColor": "#fdfafa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Formulaire demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-1b\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-vwp-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "page1.html#header1-4v",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-17"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "22px"
+            },
+            ".heading-title": {
+              "color": "#1415d6"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "7",
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#1415d6",
+            "containerColor2": "#dbae54",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "<b>Nos prix</b>",
+          "text": "Combien coûte une vidéo publicitaire ? C’est vous qui décidez ! En effet, grâce à la facturation par minute, vous choisissez la longueur en fonction de votre budget. <br>&nbsp;Ainsi vous n’avez à vous soucier de rien.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#474866"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-38"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "left",
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": "0.6"
+          },
+          "title": "La Qualité ou la gratuité...",
+          "text": "Un pépin, ne payez rien ! Pas un centime en cas de déprime ! Si vous n'êtes pas pleinement satisfait de mon travail, pas besoin de le rémunérer. En d'autres termes, c'est la qualité ou la gratuité. Découvrez les conditions de cette offre.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">informez vous</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1c"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "58",
+            "paddingTop": "3",
+            "paddingBottom": "5",
+            "bgColorRadio": true,
+            "bgColor": "#a39b8a"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/03.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=8GnvF0k_oFY&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT&index=53",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title": "Download for Windows",
+          "text": "<b>Notre listre de prix sera disponible sous peu</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-39",
+          "_styles": {
+            "P": {
+              "font-size": "46px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "showIcons": false,
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "iconsNumber": 1,
+            "imageSize": 30,
+            "containerColor1": "#120c5a",
+            "containerColor2": "#54f9ff",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/accordion1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "text1": "Aujourd’hui, la vidéo est le moyen le plus efficace pour capter l’attention des internautes et transmettre votre message.",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "La solution c'est la vidéo",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/msg-box/mac2.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?time_continue=47&v=xIHInsCK6TI",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2h"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "L'utilité d'une vidéo",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fdfafa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fdfafa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fdfafa",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fdfafa"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fdfafa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#dc4e24!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.05",
+            "imageSize": 4,
+            "fontName": {
+              "name": "Roboto Slab",
+              "css": "'Roboto Slab', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "fontColor": "#fdfafa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Formulaire demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-1b\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-vwp-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "page1.html#header1-4v",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-1w"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            },
+            ".heading-text B": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "Les bénéfices du vidéo marketing<div><br></div>",
+          "text": "<b>La vidéo a le vent en poupe.</b><br>YouTube, par exemple, compte plus de 4 milliards de vues par jour. Il s’agit du deuxième moteur de recherche de l’internet, juste derrière Google.<br><br><b>Une vidéo se partage facilement sur les médias sociaux.</b><br>En quelques clics, une vidéo peut devenir virale.<br><br><b>La vidéo est un outil puissant pour maximiser les conversions.</b><br>Les études montrent qu’un internaute est plus enclin à acheter un produit, à contracter un service ou à entrer en relation avec la marque après avoir visionné une vidéo.<br><br><b>Avec la vidéo, votre entreprise a beaucoup plus de chances de bien se placer dans les moteurs de recherche.</b><br>Comme il existe nettement moins de vidéos que de textes sur le web, les moteurs trouvent votre marque beaucoup plus facilement et les résultats de vidéos apparaissent presque systématiquement dans les listes de Google.<br><br><b>La vidéo mêle l’information au divertissement.</b><br>Vous pouvez faire passer votre message de manière ludique.<br><br><b>La capacité de rétention d’une vidéo est beaucoup plus importante.</b><br>Les consommateurs sont plus attentifs et par conséquent, retiennent mieux le message d’une vidéo.<br><br><b>La vidéo se regarde n’importe où, sur n’importe quel support.</b><br>S’il est difficile de lire un texte avec un smartphone, regarder une vidéo, en revanche, ne pose aucun problème.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1x"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "3",
+            "bgicon": true,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "left",
+            "columns": "2",
+            "iconsBgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/mbr-1-1630x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "containerColor1": "#1f242c",
+            "containerColor2": "#5070a8",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/tZeNhXQ7VY0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=tZeNhXQ7VY0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#02050e",
+            "overlayOpacity": "0.2"
+          },
+          "bgicon": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "hold-star",
+              "family": "icon54-v2",
+              "active": true,
+              "color": "#ddf4ee"
+            }
+          },
+          "title": "<b>Êtes-vous prêt à recevoir plus de trafic, de clients? &nbsp;</b><br>",
+          "text": "<b><br></b><br>Les Prospects font beaucoup plus confiance aux sites ou aux entreprises qui utilisent la vidéo pour diffuser leurs offres. Ils sont plus susceptibles de devenir de nouveaux clients. Nos services de vidéo marketing vous permettront de créer des vidéos publicitaires afin de démarrer et d’exploiter rapidement la puissance de la vidéo en ligne.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p>1</p>",
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "<div><b><br></b></div><br><div>VIDEO WEB PUB  vous propose ses services de réalisation de vidéos publicitaires animées pour vous aider à augmenter le nombre de vos prospects et clients. Nous travaillons pour que votre entreprise soit remarquée et mise en avant…</div><br><div><br></div>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p>2</p>",
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "Notre objectif est de vous fournir rapidement une vidéo originale et de qualité pour mettre en avant les &nbsp;produits ou services proposés par votre entreprise. Vous allez adorer !!!",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p>3</p>",
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features18",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "30px",
+              "color": "#fffffd"
+            },
+            ".heading-text": {
+              "font-size": "19px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#fffffd"
+            },
+            "P": {
+              "color": "#fffffd",
+              "font-size": "30px"
+            },
+            ".card-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#fffffd",
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            ".card-title DIV": {
+              "color": "#fffffd",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            ".heading-title B": {
+              "color": "#fffffd",
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".heading-text B": {
+              "color": "#fffffd",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            ".card-title B": {
+              "color": "#fffffd",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features18-1y"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Votre vidéo mode d'emploi",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fdfafa"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fdfafa"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fdfafa",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fdfafa"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#595959!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#616161"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fdfafa",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#dc4e24!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#616161",
+            "fontSize": "1.05",
+            "imageSize": 4,
+            "fontName": {
+              "name": "Roboto Slab",
+              "css": "'Roboto Slab', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "fontColor": "#fdfafa",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Formulaire demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-1b\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-vwp-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "page1.html#header1-4v",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page1.html#header1-4v\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-2i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgColor": "#fff"
+          },
+          "title": "Votre vidéo, mode d'emploi",
+          "meta": "1- Vous nous fournissez votre brief, qui contient vos instructions, le message à faire passer et toutes les infos nécessaires à la création d’un scénario.<br>2-&nbsp;Après votre validation, nous vous envoyons la vidéo terminée en haute définition et vous la publiez sur votre site, Youtube, Vimeo, réseaux sociaux,&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-2k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "left",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": 0.5
+          },
+          "title": "Article Header",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-2l"
+        }
+      ]
+    }
+  }
+}
