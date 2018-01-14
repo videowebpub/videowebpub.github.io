@@ -173,7 +173,7 @@
             "overlayOpacity": "0"
           },
           "title": "<br><br>Votre image de \"Marque\" sur le Web est importante<br><span style=\"font-weight: bold; font-style: italic;\"><br></span>",
-          "text": "<span style=\"font-style: normal;\">Une identité visuelle unique et représentative pour votre petite ou grande &nbsp;entreprise est primordial. &nbsp;</span><br><br>Si une image vaut déjà mille mots, imaginez la valeur d’une vidéo !&nbsp;<br>",
+          "text": "<span style=\"font-style: normal;\">Une identité visuelle unique et représentative pour votre petite ou grande &nbsp;entreprise est primordial. &nbsp;</span><br><br>Si une image vaut déjà mille mots, imaginez la valeur d’une vidéo.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
           "_tags": [
             "Theme"
@@ -1227,6 +1227,17 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-2-23-46-52-70582.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=oLg0HmLsDhU",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "caption": "Animation",
+                "active": false
+              },
+              {
+                "tags": "intro/logo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-6-14-9-53-370329.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=YVZh6o9N9No&feature=youtu.be",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
