@@ -20,17 +20,17 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#30a2d2",
+        "#21a2d9",
         "#124a0d",
         "#71d0e7",
         "#a39b8a",
         "#474866",
-        "#232323",
-        "#1415d6",
-        "#4a4a4a"
+        "#232323"
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 121,
+    "uniqCompNum": 123,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -235,13 +235,18 @@
               "vertical-align": "middle"
             },
             ".heading-title": {
-              "color": "#000000"
+              "color": "#1f8068"
             },
             ".heading-text": {
-              "color": "#000000"
+              "color": "#1f8068",
+              "text-align": "left",
+              "font-size": "18px"
             },
             ".heading-text B": {
               "font-size": "20px"
+            },
+            ".heading-title B": {
+              "color": "#1f8068"
             }
           },
           "_params": {
@@ -264,14 +269,27 @@
             "overlayColor": "#2d2d2d",
             "overlayOpacity": "0.4"
           },
-          "title": "<b>Les bénéfices du vidéo marketing</b>",
-          "text": "<b>La vidéo est un outil puissant pour maximiser les conversions.<br>Les études montrent qu’un internaute est plus enclin à acheter un produit, à contracter un service ou à entrer en relation avec la marque après avoir visionné une vidéo</b>",
+          "title": "<b>Nos services en résumés</b>",
+          "text": "<br><b>1–</b> &nbsp;<b>Boutique de vidéo</b> à personnalisé&nbsp;avec de nombreuses possibilités en terme &nbsp;de modèle déjà clé en main<b>.</b><br><br><b>2–</b> Vous avez déjà des vidéos ou des images de votre entreprise? Mais avez besoin d'ajouter un <b>intro personnalisé avec votre Logo ou d'une conclusion avec demande d'action</b>? Pas de problème.<br><br><b>3–</b> Vidéos d’Animation, promotionnel, d'offre de produit ou de solution de <b>tout genre.</b>&nbsp;<br><br><b>4 –</b> Création unique de <b>\"bannière\" facebook</b> pour votre page d'affaire. En vidéo (nouveau)ou fixe.<br><br><b>5-</b> Création d'annonce de toute sorte <b>et bien plus …</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Watch Demo</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_anchor": "content7-33"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3e"
         },
         {
           "_params": {
@@ -340,12 +358,13 @@
               "text-align": "center"
             },
             "H1": {
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#21a2d9"
             },
             "P": {
               "font-size": "20px",
               "text-align": "right",
-              "color": "#1f8068"
+              "color": "#30a2d2"
             },
             "B": {
               "color": "#30a2d2"
@@ -473,6 +492,123 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showSubtitles": true,
+            "showTabsList": false,
+            "showButtons": false,
+            "tabs": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tabs1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#dcd9d9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<b>Une boutique en ligne de \"modèles\"</b>",
+          "title1": "<b>Personnaliser un de nos modèle</b>",
+          "title2": "Bootstrap builder",
+          "title3": "Trendy website blocks",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
+          "text1": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1- Choisir votre modèle de vidéo<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2- Communiquer avec nous<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3- Nous faire parvenir vos fichiers, logo,texte etc.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4- En quelque heures vous recevrez votre vidéo &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C'est aussi simple que ça!<br><br><span style=\"font-size: 36px;\">Venez voir notre boutique maintenant!</span>",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>8 internautes sur 10 préfèrent regarder la vidéo avant de lire les textes d’un site</li>",
+          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-online-shopping1 mbr-iconfont mbr-iconfont-btn\"></span>Boutique En ligne</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x300.png",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "Boutique vidéo en ligne"
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card.png",
+              "width": 600
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card2.png",
+              "width": 600
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "tabs3",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            },
+            "B": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "24px"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "tabs3-3"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#30a2d2"
@@ -557,7 +693,7 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
@@ -567,202 +703,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-36"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showSubtitles": true,
-            "showTabsList": false,
-            "showButtons": false,
-            "tabs": "1",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tabs1.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#dcd9d9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
-          },
-          "title": "<b>Une boutique en ligne de \"modèles\"</b>",
-          "title1": "<b>Personnaliser un de nos modèle</b>",
-          "title2": "Bootstrap builder",
-          "title3": "Trendy website blocks",
-          "title4": "Tab heading 4",
-          "title5": "Tab heading 5",
-          "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
-          "text1": "1- Choisir votre modèle de vidéo<br>2- Communiquer avec nous<br>2- Nous faire parvenir vos fichiers, logo,texte etc.<br>3- En quelque heures vous recevrez votre vidéo personnalisée<br><br><b>C'est aussi simple que ça!</b>",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
-          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "list1": "<li>8 internautes sur 10 préfèrent regarder la vidéo avant de lire les textes d’un site</li>",
-          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
-          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
-          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
-          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
-          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-online-shopping1 mbr-iconfont mbr-iconfont-btn\"></span>Boutique En ligne</a>",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
-          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x300.png",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "Boutique vidéo en ligne"
-            }
-          },
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/card2.png",
-              "width": 600
-            }
-          },
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/card3.png",
-              "width": 600
-            }
-          },
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/card.png",
-              "width": 600
-            }
-          },
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/card2.png",
-              "width": 600
-            }
-          },
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/card3.png",
-              "width": 600
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "tabs3",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            },
-            "B": {
-              "font-size": "36px"
-            },
-            "P": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "tabs3-3"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "showArrow": false,
-            "imageSize": "36",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pointing-2649315-1920-2-1920x1281.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#a33725",
-            "containerColor3": "#101007",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/header/06.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=OqvvprgOtEM",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<br>On en discute?<br><br>",
-          "text": "Vous hésitez à vous lancer ? Vous n’avez pas d’idées sur la façon dont présenter votre entreprise, vos produits ou vos services ?<br><br><br><br> ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html#form3-10\" data-toolbar=\"-mbrBtnMove\">Communiquez avec nous</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header7",
-          "_anchor": "header7-35",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            },
-            "P": {
-              "font-size": "22px",
-              "text-align": "left"
-            },
-            "H3": {
-              "color": "#fffffd",
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-26"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1e"
         },
         {
           "_params": {
@@ -891,6 +831,92 @@
             }
           },
           "_anchor": "features2-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-26"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "36",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pointing-2649315-1920-2-1920x1281.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#fffffd",
+            "containerColor2": "#a33725",
+            "containerColor3": "#101007",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/06.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=OqvvprgOtEM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<br>On en discute?<br><br>",
+          "text": "Vous hésitez à vous lancer ? Vous n’avez pas d’idées sur la façon dont présenter votre entreprise, vos produits ou vos services ?<br><br><br><br> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html#form3-10\" data-toolbar=\"-mbrBtnMove\">Communiquez avec nous</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-35",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#fffffd",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1e"
         },
         {
           "_params": {
@@ -1227,17 +1253,6 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-2-23-46-52-70582.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=oLg0HmLsDhU",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "alt": "",
-                "caption": "Animation",
-                "active": false
-              },
-              {
-                "tags": "intro/logo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-6-14-9-53-370329.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=YVZh6o9N9No&feature=youtu.be",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
@@ -1579,10 +1594,10 @@
             "showText": true,
             "showButtons": true,
             "contentAlign": "center",
-            "paddingTop": "7",
-            "paddingBottom": "5",
+            "paddingTop": "5",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/colours-004-result-800x541.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/confused-2681507-1920-2-1920x1281.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "containerColor1": "#19b68f",
@@ -1596,16 +1611,16 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
-          "title": "<b>Vous ne savez pas par ou commencer ?</b>",
-          "text": "<b>Si vous avez un projet et voulez en parler, n'hésitez pas, nous sommes là pour vous.<br></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mailto:domben@videowebpub.com\" data-toolbar=\"-mbrBtnMove\">Besoin d'aide?<br><br>Envoyez nous un courriel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html#content5-14\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Formulaire de demande<br>ou<br>Des questions ?<br></a>",
+          "title": "<br><br><b>Vous ne savez toujours pas par ou commencer ?</b>",
+          "text": "<b>Si vous avez un projet et voulez en parler, n'hésitez pas, nous sommes là pour vous.<br></b><br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"mailto:domben@videowebpub.com\" data-toolbar=\"-mbrBtnMove\">Besoin d'aide?<br><br>Envoyez nous un courriel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html#content5-14\" data-toolbar=\"-mbrBtnMove\">Formulaire de demande<br>ou<br>Des questions ?<br></a>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-6"
+          "_anchor": "content5-3d"
         },
         {
           "_params": {
@@ -1698,14 +1713,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#fdfafa",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -2175,7 +2190,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x3000.png",
+              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x3002.png",
               "width": 600,
               "link": "",
               "alt": "",
