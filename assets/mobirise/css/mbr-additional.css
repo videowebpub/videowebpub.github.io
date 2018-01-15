@@ -638,31 +638,8 @@ a:hover {
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
 }
-#content7-33 .mbr-section-title,
-#content7-33 .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #fff;
-}
-#content7-33 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#content7-33 .mbr-table-cell {
-  vertical-align: middle;
-}
-#content7-33 .heading-title {
-  color: #1f8068;
-}
-#content7-33 .heading-text {
-  color: #1f8068;
-  text-align: left;
-  font-size: 18px;
-}
-#content7-33 .heading-text B {
-  font-size: 20px;
-}
-#content7-33 .heading-title B {
-  color: #1f8068;
+#video2-43 DIV {
+  font-size: 30px;
 }
 #header4-8 .mbr-iconfont {
   color: undefined;
@@ -715,6 +692,10 @@ a:hover {
 #msg-box5-2d B {
   font-size: 25px;
 }
+#content3-3f .mbr-section-title,
+#content3-3f .mbr-section-subtitle {
+  text-align: center;
+}
 #tabs3-3 .btn {
   font-size: 22px;
 }
@@ -755,6 +736,13 @@ a:hover {
 #buttons1-v .btn {
   font-size: 17px;
 }
+#content3-3g .mbr-section-title,
+#content3-3g .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-3g P {
+  font-size: 25px;
+}
 #features2-5 .mbr-iconfont {
   color: #1321ed;
   border-color: #1321ed;
@@ -788,6 +776,16 @@ a:hover {
   color: #fffffd;
   text-align: center;
 }
+#content3-1g .mbr-section-title,
+#content3-1g .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1g H1 {
+  font-size: 48px;
+}
+#content3-1g P {
+  color: #1415d6;
+}
 #content8-4 P {
   text-align: left;
   font-size: 20px;
@@ -799,22 +797,15 @@ a:hover {
   color: #ffffff;
   font-family: 'Libre Franklin', serif;
 }
-#content3-1g .mbr-section-title,
-#content3-1g .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-1g H1 {
-  font-size: 48px;
-}
-#content3-1g P {
-  color: #1415d6;
-}
 #msg-box5-3c .mbr-section-title {
   color: #fff;
   line-height: 1;
 }
 #msg-box5-3c .round-text {
   color: #fff;
+}
+#buttons1-40 .btn {
+  font-size: 24px;
 }
 #content3-s .mbr-section-title,
 #content3-s .mbr-section-subtitle {
@@ -834,6 +825,9 @@ a:hover {
 #slider2-1h .mbr-section-title,
 #slider2-1h .mbr-section-text {
   color: #fff;
+}
+#buttons1-41 .btn {
+  font-size: 24px;
 }
 #content5-3d .mbr-section-title,
 #content5-3d .mbr-section-subtitle {
@@ -1435,14 +1429,14 @@ a:hover {
 #menu2-17 .link,
 #menu2-17 .dropdown-item {
   color: #fdfafa;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 #menu2-17 .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu2-17 .dropdown-item,
 #menu2-17 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu2-17 .link:hover,
 #menu2-17 .link:focus {
@@ -1492,6 +1486,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-1b .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-1b .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1500,17 +1498,6 @@ a:hover {
 }
 #content5-1b .heading-title {
   color: #1415d6;
-}
-#content7-1c .mbr-section-title,
-#content7-1c .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #fff;
-}
-#content7-1c .mbr-table-cell {
-  vertical-align: middle;
-}
-#content7-1c .heading-title {
-  color: #fffffd;
 }
 #content8-39 P {
   font-size: 46px;
@@ -1735,4 +1722,175 @@ a:hover {
 }
 #content7-2l .mbr-table-cell {
   vertical-align: middle;
+}
+
+#menu2-3h .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-3h .navbar-toggler {
+  color: #fdfafa;
+}
+#menu2-3h .close-icon::before,
+#menu2-3h .close-icon::after {
+  background-color: #fdfafa;
+}
+#menu2-3h .link,
+#menu2-3h .dropdown-item {
+  color: #fdfafa;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu2-3h .link {
+  font-size: 0.95rem;
+}
+#menu2-3h .dropdown-item,
+#menu2-3h .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu2-3h .link:hover,
+#menu2-3h .link:focus {
+  color: #dc4e24;
+}
+#menu2-3h .dropdown-item:hover::before,
+#menu2-3h .dropdown-item:focus::before {
+  background: #dc4e24;
+}
+#menu2-3h .dropdown-item:hover,
+#menu2-3h .dropdown-item:focus {
+  color: #fdfafa;
+}
+#menu2-3h .link[aria-expanded="true"],
+#menu2-3h .dropdown-menu {
+  background: #616161;
+}
+#menu2-3h .nav-dropdown-sm .link:focus,
+#menu2-3h .nav-dropdown-sm .link:hover,
+#menu2-3h .nav-dropdown-sm .dropdown-item:focus,
+#menu2-3h .nav-dropdown-sm .dropdown-item:hover {
+  background: #595959!important;
+}
+#menu2-3h .navbar,
+#menu2-3h .nav-dropdown-sm,
+#menu2-3h .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-3h .nav-dropdown-sm .dropdown-menu {
+  background: #616161;
+}
+#menu2-3h .bg-color.transparent .link {
+  color: #fdfafa;
+  transition: none;
+}
+#menu2-3h .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-3h .bg-color.transparent.opened .link:hover,
+#menu2-3h .bg-color.transparent.opened .link:focus {
+  color: #dc4e24;
+}
+#menu2-3h .link[aria-expanded="true"],
+#menu2-3h .dropdown-item[aria-expanded="true"] {
+  color: #dc4e24!important;
+}
+#features17-3q .card .mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
+}
+#features17-3q .mbr-table-cell {
+  vertical-align: middle;
+}
+#features17-3q .card-title {
+  text-align: left;
+  color: #000000;
+}
+#features17-3q .heading-title {
+  text-align: left;
+  color: #000000;
+}
+#features17-3q .heading-text {
+  text-align: left;
+}
+#features17-3q .heading-text B {
+  font-size: 20px;
+  color: #000000;
+}
+#features17-3q .heading-title B {
+  font-size: 46px;
+}
+#content5-3v .mbr-section-title,
+#content5-3v .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-3v .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-3v .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-3v .heading-title {
+  font-size: 36px;
+  color: #000000;
+}
+#content5-3v .heading-text {
+  font-size: 20px;
+  color: #000000;
+}
+#content5-3w .mbr-section-title,
+#content5-3w .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-3w .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-3w .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-3w .heading-text {
+  font-size: 22px;
+}
+#content5-3w .heading-title {
+  font-size: 36px;
+}
+#content5-3w .btn {
+  font-size: 22px;
+}
+#content5-3t .mbr-section-title,
+#content5-3t .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-3t .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-3t .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-3t .heading-title {
+  color: #000000;
+  font-size: 46px;
+}
+#content5-3t .heading-text {
+  font-size: 20px;
+  color: #000000;
+}
+#content3-3o .mbr-section-title,
+#content3-3o .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-3o H1 {
+  font-size: 36px;
+  color: #000000;
+}
+#content3-3o P {
+  color: #2b0fed;
+}
+#content3-3o B {
+  color: #02050e;
+  font-size: 30px;
+}
+#slider2-3m .mbr-section-title,
+#slider2-3m .mbr-section-text {
+  color: #fff;
 }
