@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mon videowebpub",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -522,7 +522,7 @@
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
           "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
-          "text1": "&nbsp;1- Choisir votre modèle de vidéo<br>                2- Communiquer avec nous<br>                3- Nous faire parvenir vos fichiers, logo,texte etc.<br>                4- En quelque heures vous recevrez votre vidéo              <br>                C'est aussi simple que ça!<br><br><br><b>Venez voir notre boutique maintenant!</b><br>",
+          "text1": "&nbsp;1- Choisir votre modèle de vidéo<br>                2- Communiquer avec nous<br>                3- Nous faire parvenir vos fichiers, logo,texte etc.<br>                4- En quelque heures vous recevrez votre vidéo              <br>                C'est aussi simple que ça!<br><br><br><br><b>Venez voir notre boutique maintenant!</b><br>",
           "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -873,9 +873,9 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": false,
-            "imageSize": "36",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "73",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/emotionspointing-2649315-1920-2-1920x1281.jpg",
             "parallax": false,
@@ -889,7 +889,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -1972,14 +1972,14 @@
               "vertical-align": "middle"
             },
             ".heading-text": {
-              "font-size": "20px",
+              "font-size": "22px",
               "text-align": "center"
             },
             ".heading-title": {
               "font-size": "60px"
             },
             ".btn": {
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".heading-title B": {
               "font-size": "48px"
@@ -1993,8 +1993,8 @@
             "showText": true,
             "showButtons": true,
             "contentAlign": "center",
-            "paddingTop": "3",
-            "paddingBottom": "7",
+            "paddingTop": "2",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/frog-1347642-1926-1920x1276.jpg",
             "parallax": false,
@@ -2009,8 +2009,8 @@
             "overlayColor": "#0c4a5f",
             "overlayOpacity": "0.3"
           },
-          "title": "<br><br><br><b>Notre boutique \"modèle\" vidéo</b><b><br></b>",
-          "text": "<b>Personnaliser un de nos modèle</b><br><br><b>C'est aussi simple que ça !</b><br><br>",
+          "title": "<br><br><br><b>Notre boutique \"modèle\" vidéo<br></b>",
+          "text": "Personnaliser un de nos modèle<br><br>C'est aussi simple que ça !<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voir la Boutique&nbsp;</a>",
           "_tags": [
             "Theme"
@@ -2069,7 +2069,7 @@
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
           "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\"></a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\"></a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\"></a></li>",
-          "text1": "<b>1- Choisir votre modèle de vidéo<br>2- Communiquer avec nous<br>2- Nous faire parvenir vos fichiers, logo,texte etc.<br>3- En quelque heures vous recevrez votre vidéo personnalisée<br><br>C'est aussi simple que ça !</b>",
+          "text1": "1- Choisir votre modèle de vidéo<br>2- Communiquer avec nous<br>2- Nous faire parvenir vos fichiers, logo,texte etc.<br>3- En quelque heures vous recevrez votre vidéo personnalisée<br><br>C'est aussi simple que ça !",
           "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -2090,7 +2090,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x3009.png",
+              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x3000.png",
               "width": 600,
               "link": "",
               "alt": "",
@@ -4839,8 +4839,8 @@
           "_params": {
             "showBullets": true,
             "fullWidth": true,
-            "spacing": "1",
-            "paddingTop": "0",
+            "spacing": "2",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "filterBgColor": false,
             "bgColor": "#dcd9d9",
@@ -4849,7 +4849,7 @@
             "images": [
               {
                 "tags": "intro/logo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-23-11-12-71722.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-0-28-28-617640.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=yjbDaAsAiJ0",
                 "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
@@ -4904,7 +4904,7 @@
               },
               {
                 "tags": "intro/logo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-23-12-18-33454.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-0-29-21-816277.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=dSU2naVf9eI",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
@@ -4948,7 +4948,7 @@
               },
               {
                 "tags": "intro/logo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-23-10-30-361483.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-0-27-46-940331.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=-8vbbPDWNpU",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
@@ -4959,25 +4959,25 @@
               },
               {
                 "tags": "intro/logo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-23-14-12-588737.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-0-29-54-581573.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=GPRxPOBgsHU",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
                 "caption": "Intro/Logo",
-                "active": true
+                "active": false
               },
               {
                 "tags": "intro/logo",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-23-13-12-728417.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-0-30-19-545489.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=3SkT53MLmjU",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
                 "caption": "Intro/Logo",
-                "active": false
+                "active": true
               },
               {
                 "tags": "intro/logo",
