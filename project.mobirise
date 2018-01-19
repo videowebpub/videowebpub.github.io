@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mon videowebpub",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -20,18 +20,18 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#dca315",
+        "#cf4e00",
+        "#ff2c11",
+        "#b31818",
+        "#ed0a0a",
         "#3410f1",
-        "#30a2d2",
-        "#21a2d9",
-        "#124a0d",
-        "#71d0e7",
-        "#a39b8a",
-        "#474866"
+        "#30a2d2"
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 177,
-    "versionPublish": "4.5.2",
+    "uniqCompNum": 188,
+    "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -235,6 +235,60 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "18px"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#fffffd"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#6ff5d5",
+            "containerColor2": "#143e7c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/K06sO27YGeU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=K06sO27YGeU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#050f30",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Enfin vous êtes à la bonne place au bon moment!!<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-54"
         },
         {
           "_style": {
@@ -717,7 +771,7 @@
             "paddingBottom": 3,
             "bgColor": "#fff"
           },
-          "title": "D'autres possiblilités",
+          "title": "D'autres possiblilités pour vous",
           "meta": "",
           "_tags": [
             "Theme"
@@ -763,12 +817,12 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "film-video",
-              "family": "iconsMind",
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": "40",
-              "color": "#850c0c"
+              "color": "#3410f1"
             }
           },
           "title1": "<span style=\"font-style: normal;\">&nbsp;Montage vidéo publicitaire personnalisé</span>",
@@ -779,12 +833,11 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "video",
-              "family": "icon54-v4",
+              "name": "shopping-cart",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": "40",
-              "color": "#850c0c"
+              "color": "#3410f1"
             }
           },
           "title2": "&nbsp;Une solution simple?<br>Boutique de modèle vidéo",
@@ -795,12 +848,11 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "rectangle-frame-12",
-              "family": "icon54-v4",
+              "name": "photo",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": "40",
-              "color": "#850c0c"
+              "color": "#3410f1"
             }
           },
           "title3": "Création de Logo, affiche web,<br>bandeau facebook",
@@ -852,6 +904,166 @@
             }
           },
           "_anchor": "features2-5"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-51"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#cf4e00",
+            "containerColor2": "#dca315",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/TiqFtupI08U?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=TiqFtupI08U&feature=youtu.be",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Nous sommes en Feu et \"Déchainés\" pour vous!",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-57"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "line-height": "1"
+            },
+            ".round-text": {
+              "color": "#fff",
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "showIcons": false,
+            "iconsBorder": true,
+            "iconsColor": "#ffffff",
+            "iconsNumber": 1,
+            "imageSize": "48",
+            "containerColor1": "#ed0a0a",
+            "containerColor2": "#dca315",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1512x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ff2c11",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/TiqFtupI08U?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=TiqFtupI08U&feature=youtu.be",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0"
+          },
+          "text1": "<br>C’est vous qui décidez ! En effet, ce n'est pas juste nos vidéos qui sont personnalisables,  votre facture également! Vous choisissez  votre montage publicitaire en fonction de votre budget.  Et c'est à nous  de s'adapter et non l'inverse WOW!!!<br> Ainsi vous n’avez à vous soucier de rien.",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Combien coûte une vidéo publicitaire ?&nbsp;",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
+          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/emotionsexcited-2649320-1920-2-1920x1281.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "MobiriseIcons"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit2",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "timer",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-50"
         },
         {
           "_params": {
@@ -1434,7 +1646,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page7.html#content3-3o\" data-toolbar=\"-mbrBtnMove\">En voir plus <br>&nbsp;Porte folio</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page7.html#video2-4b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">En voir plus <br>&nbsp;Porte folio</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1536,6 +1748,60 @@
           "_anchor": "content1-29"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "18px"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#fffffd"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#6ff5d5",
+            "containerColor2": "#143e7c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/K06sO27YGeU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=K06sO27YGeU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#050f30",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Enfin vous êtes à la bonne place au bon moment!!<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-53"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1597,7 +1863,7 @@
     "page1.html": {
       "settings": {
         "title": "Nos services",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -2009,8 +2275,8 @@
             "overlayColor": "#0c4a5f",
             "overlayOpacity": "0.3"
           },
-          "title": "<br><br><br><b>Notre boutique \"modèle\" vidéo<br></b>",
-          "text": "Personnaliser un de nos modèle<br><br>C'est aussi simple que ça !<br><br>",
+          "title": "<br><br><b>Notre boutique \"modèle\" vidéo<br></b>",
+          "text": "Personnalisez un de nos modèles à partir de 45$ seulement<br><br>C'est aussi simple que ça !<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Voir la Boutique&nbsp;</a>",
           "_tags": [
             "Theme"
@@ -2090,7 +2356,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x3000.png",
+              "src": "@PROJECT_PATH@/assets/images/filmstrip-1174228-result-600x3003.png",
               "width": 600,
               "link": "",
               "alt": "",
@@ -2639,131 +2905,131 @@
             "theme": "crystal",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-shmvlf-2-800x586.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-shmvlf-2-800x586.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-shmvlf-2-1200x900.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-shmvlf-2-65x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-shmvlf-2-65x48.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-meraks-2-602x600.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-meraks-2-602x600.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-meraks-2-800x800.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-meraks-2-48x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-meraks-2-48x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-ae1w8f-3-800x431.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-ae1w8f-3-800x431.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-ae1w8f-3-1280x700.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-ae1w8f-3-85x45.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-ae1w8f-3-85x45.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-mxxp5h-2-799x304.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-mxxp5h-2-799x304.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-mxxp5h-2-1200x457.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-mxxp5h-2-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-mxxp5h-2-85x32.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/banniere-youtube-2-800x450.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bannie%CC%80re%20%20youtube%202-800x450.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bannie%CC%80re%20%20youtube%202-2000x1125.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/banniere-youtube-2-85x47.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bannie%CC%80re%20%20youtube%202-85x47.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-800x456.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/facebook%20videowebpub%202-800x456.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-1221x696.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-84x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/facebook%20videowebpub%202-84x48.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bonne-annee-2018-800x600.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bonne%20anne%CC%81e%202018-800x600.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bonne%20anne%CC%81e%202018-1200x900.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/bonne-annee-2018-64x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bonne%20anne%CC%81e%202018-64x48.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/a-dreamy-world-cover-fb-32-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/a_dreamy_world_-_cover_fb%20(32)-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/a_dreamy_world_-_cover_fb%20(32)-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/a-dreamy-world-cover-fb-32-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/a_dreamy_world_-_cover_fb%20(32)-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/tournesols-fb-cover-1-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/tournesols_-_fb_cover-1-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/tournesols_-_fb_cover-1-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tournesols-fb-cover-1-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/tournesols_-_fb_cover-1-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/cover-fb-baden-wurttemberg-in-spring-germany-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/cover_fb_%20baden-wu%CC%88rttemberg%20in%20spring,%20germany-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/cover_fb_%20baden-wu%CC%88rttemberg%20in%20spring,%20germany-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/cover-fb-baden-wurttemberg-in-spring-germany-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/cover_fb_%20baden-wu%CC%88rttemberg%20in%20spring,%20germany-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/yacht-boat-fb-cover-3-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/yacht_boat_fb_cover%20(3)-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/yacht_boat_fb_cover%20(3)-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/yacht-boat-fb-cover-3-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/yacht_boat_fb_cover%20(3)-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hummingbirds-facebook-cover-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/hummingbirds-facebook_cover-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/hummingbirds-facebook_cover-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/hummingbirds-facebook-cover-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/hummingbirds-facebook_cover-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/imagination-couverture-facebook-21-800x295.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/imagination%20couverture%20facebook%20(21)-800x295.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/imagination%20couverture%20facebook%20(21)-850x314.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/imagination-couverture-facebook-21-85x31.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/imagination%20couverture%20facebook%20(21)-85x31.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": true
@@ -3063,7 +3329,7 @@
     "page2.html": {
       "settings": {
         "title": "Formulaire demande 1",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -3328,107 +3594,9 @@
     "page3.html": {
       "settings": {
         "title": "Formulaire demande 2",
-        "order": 8
+        "order": 7
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#fdfafa"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#fdfafa"
-            },
-            ".link, .dropdown-item": {
-              "color": "#fdfafa",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#fdfafa"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#616161"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#595959!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#616161"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#fdfafa",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#dc4e24!important"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#616161",
-            "fontSize": "0.95",
-            "imageSize": 4,
-            "fontName": {
-              "name": "Oxygen",
-              "css": "'Oxygen', sans-serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "fontColor": "#fdfafa",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\" target=\"_blank\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content5-1k\" aria-expanded=\"false\" target=\"_blank\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html#video2-4b\" target=\"_blank\">Porte Folio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-4v\" aria-expanded=\"false\" target=\"_blank\">Demande&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#content5-4r\" aria-expanded=\"false\" target=\"_blank\">Nos prix&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html#content5-15\" aria-expanded=\"false\" target=\"_blank\">Nous contacter</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "page1.html#header1-4v",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-empty\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header4-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">videowebpub</a>",
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-b"
-        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -3445,6 +3613,9 @@
             ".heading-title": {
               "font-size": "60px",
               "color": "#fffffd"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -3453,9 +3624,9 @@
             "showButtons": false,
             "contentAlign": "center",
             "paddingTop": "7",
-            "paddingBottom": "3",
+            "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "containerColor1": "#6ff5d5",
@@ -3478,7 +3649,7 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-14"
+          "_anchor": "content5-4x"
         },
         {
           "_styles": {
@@ -3511,7 +3682,7 @@
             "showCheckbox": false,
             "formBg": "#2889d2",
             "formHeader": false,
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -3573,7 +3744,7 @@
     "page4.html": {
       "settings": {
         "title": "Nos prix",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3685,10 +3856,13 @@
               "vertical-align": "middle"
             },
             ".heading-text": {
-              "font-size": "22px"
+              "font-size": "22px",
+              "color": "#fffffd",
+              "text-align": "left"
             },
             ".heading-title": {
-              "color": "#1415d6"
+              "color": "#fffffd",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -3696,12 +3870,12 @@
             "showText": true,
             "showButtons": false,
             "contentAlign": "center",
-            "paddingTop": "7",
-            "paddingBottom": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bonhommewhite-male-2064837-1920-1920x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "containerColor1": "#1415d6",
             "containerColor2": "#dbae54",
             "bgVideoRadio": false,
@@ -3710,10 +3884,10 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.5"
           },
-          "title": "<b>Nos prix</b>",
-          "text": "Combien coûte une vidéo publicitaire ? C’est vous qui décidez ! En effet, grâce à la facturation par minute, vous choisissez la longueur en fonction de votre budget. <br>&nbsp;Ainsi vous n’avez à vous soucier de rien.",
+          "title": "<b><br></b><br><b>Nos prix</b><br><b><br></b>",
+          "text": "Combien coûte une vidéo publicitaire ? <br>C’est vous qui décidez ! En effet, ce n'est pas juste nos vidéos qui sont personnalisables, &nbsp;votre facture également! Vous choisissez &nbsp;votre montage publicitaire en fonction de votre budget. &nbsp;Et c'est à nous &nbsp;de s'adapter et non l'inverse WOW!!!<br>&nbsp;Ainsi vous n’avez à vous soucier de rien.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "_tags": [
             "Theme"
@@ -3779,7 +3953,7 @@
             "iconsBorder": true,
             "iconsColor": "#ffffff",
             "iconsNumber": 1,
-            "imageSize": 30,
+            "imageSize": "60",
             "containerColor1": "#120c5a",
             "containerColor2": "#54f9ff",
             "paddingTop": 1,
@@ -3859,7 +4033,7 @@
     "page5.html": {
       "settings": {
         "title": "L'utilité d'une vidéo",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -3875,14 +4049,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#fdfafa",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -4009,8 +4183,8 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgicon": true,
             "showHeading": true,
             "showTitle": true,
@@ -4018,23 +4192,23 @@
             "showButtons": false,
             "contentAlign": "left",
             "columns": "2",
-            "iconsBgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/mbr-1-1630x1080.jpg",
-            "parallax": true,
+            "iconsBgColor": "#e9361a",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bonhommewhite-male-2064876-1920-1920x1920.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "containerColor1": "#1f242c",
             "containerColor2": "#5070a8",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/tZeNhXQ7VY0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=tZeNhXQ7VY0",
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#02050e",
-            "overlayOpacity": "0.2"
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.4"
           },
           "bgicon": {
             "iconFont": {
@@ -4115,8 +4289,8 @@
           "_name": "features18",
           "_styles": {
             ".card .mbr-iconfont": {
-              "color": "#fff",
-              "border-color": "#fff"
+              "color": "#e9361a",
+              "border-color": "#e9361a"
             },
             ".mbr-table-cell": {
               "vertical-align": "middle"
@@ -4129,27 +4303,27 @@
               "font-size": "19px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#fffffd"
+              "color": "#1415d6"
             },
             "P": {
-              "color": "#fffffd",
+              "color": "#000000",
               "font-size": "30px"
             },
             ".card-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#fffffd",
+              "color": "#1415d6",
               "text-align": "center",
               "font-size": "18px"
             },
             ".card-title DIV": {
-              "color": "#fffffd",
+              "color": "#1415d6",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
             },
             ".heading-title B": {
-              "color": "#fffffd",
+              "color": "#1415d6",
               "font-size": "36px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
@@ -4167,14 +4341,68 @@
               "font-size": "18px"
             }
           },
-          "_anchor": "features18-1y"
+          "_anchor": "features18-4y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "18px"
+            },
+            ".heading-title": {
+              "font-size": "60px",
+              "color": "#fffffd"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#6ff5d5",
+            "containerColor2": "#143e7c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/K06sO27YGeU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=K06sO27YGeU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#050f30",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Allez vous êtes à la bonne place au bon moment!<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Commencez &nbsp;ici !</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-4z"
         }
       ]
     },
     "page6.html": {
       "settings": {
         "title": "Votre vidéo mode d'emploi",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -4190,14 +4418,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#fdfafa",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -5313,131 +5541,131 @@
             "theme": "crystal",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-shmvlf-2-800x586.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-shmvlf-2-800x586.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-shmvlf-2-1200x900.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-shmvlf-2-65x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-shmvlf-2-65x48.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-meraks-2-602x600.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-meraks-2-602x600.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-meraks-2-800x800.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-meraks-2-48x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-meraks-2-48x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-ae1w8f-3-800x431.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-ae1w8f-3-800x431.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-ae1w8f-3-1280x700.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-ae1w8f-3-85x45.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-ae1w8f-3-85x45.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/thumbnail-mxxp5h-2-799x304.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/thumbnail-mxxp5h-2-799x304.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-mxxp5h-2-1200x457.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/thumbnail-mxxp5h-2-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2017-12-28_200826/assets/images/thumbnail-mxxp5h-2-85x32.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/banniere-youtube-2-800x450.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bannie%CC%80re%20%20youtube%202-800x450.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bannie%CC%80re%20%20youtube%202-2000x1125.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/banniere-youtube-2-85x47.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bannie%CC%80re%20%20youtube%202-85x47.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-800x456.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/facebook%20videowebpub%202-800x456.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-1221x696.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/facebook-videowebpub-2-84x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/facebook%20videowebpub%202-84x48.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bonne-annee-2018-800x600.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bonne%20anne%CC%81e%202018-800x600.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bonne%20anne%CC%81e%202018-1200x900.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/bonne-annee-2018-64x48.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/bonne%20anne%CC%81e%202018-64x48.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/a-dreamy-world-cover-fb-32-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/a_dreamy_world_-_cover_fb%20(32)-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/a_dreamy_world_-_cover_fb%20(32)-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/a-dreamy-world-cover-fb-32-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/a_dreamy_world_-_cover_fb%20(32)-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/tournesols-fb-cover-1-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/tournesols_-_fb_cover-1-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/tournesols_-_fb_cover-1-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tournesols-fb-cover-1-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/tournesols_-_fb_cover-1-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/cover-fb-baden-wurttemberg-in-spring-germany-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/cover_fb_%20baden-wu%CC%88rttemberg%20in%20spring,%20germany-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/cover_fb_%20baden-wu%CC%88rttemberg%20in%20spring,%20germany-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/cover-fb-baden-wurttemberg-in-spring-germany-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/cover_fb_%20baden-wu%CC%88rttemberg%20in%20spring,%20germany-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/yacht-boat-fb-cover-3-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/yacht_boat_fb_cover%20(3)-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/yacht_boat_fb_cover%20(3)-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/yacht-boat-fb-cover-3-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/yacht_boat_fb_cover%20(3)-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hummingbirds-facebook-cover-800x309.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/hummingbirds-facebook_cover-800x309.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/hummingbirds-facebook_cover-815x315.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/hummingbirds-facebook-cover-85x32.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/hummingbirds-facebook_cover-85x32.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/imagination-couverture-facebook-21-800x295.jpg",
+                "image": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/imagination%20couverture%20facebook%20(21)-800x295.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/imagination%20couverture%20facebook%20(21)-850x314.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/imagination-couverture-facebook-21-85x31.png",
+                "tooltip": "file:///Users/Dominique/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2018-01-09_124920/assets/images/imagination%20couverture%20facebook%20(21)-85x31.png",
                 "title": "title 1",
                 "text": "text 1",
                 "active": true

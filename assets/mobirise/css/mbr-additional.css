@@ -4,7 +4,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 
 
@@ -638,6 +637,28 @@ a:hover {
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
 }
+#content5-54 .mbr-section-title,
+#content5-54 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-54 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-54 .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-54 .heading-text {
+  font-size: 18px;
+}
+#content5-54 .heading-title {
+  font-size: 60px;
+  color: #fffffd;
+}
+#content5-54 .btn {
+  font-size: 20px;
+}
 #video2-43 DIV {
   font-size: 30px;
 }
@@ -761,6 +782,29 @@ a:hover {
   font-size: 25px;
   font-family: 'Lora', serif;
 }
+#content5-57 .mbr-section-title,
+#content5-57 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-57 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-57 .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-57 .heading-title {
+  color: #fffffd;
+}
+#msg-box5-50 .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#msg-box5-50 .round-text {
+  color: #fff;
+  font-size: 19px;
+}
 #header7-35 .btn {
   font-size: 22px;
 }
@@ -855,6 +899,28 @@ a:hover {
 #content5-4g .heading-title B {
   font-size: 48px;
   color: #000000;
+}
+#content5-53 .mbr-section-title,
+#content5-53 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-53 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-53 .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-53 .heading-text {
+  font-size: 18px;
+}
+#content5-53 .heading-title {
+  font-size: 60px;
+  color: #fffffd;
+}
+#content5-53 .btn {
+  font-size: 20px;
 }
 #share1-w .mbr-section-title {
   font-size: 30px;
@@ -1260,6 +1326,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-4v .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-4v .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1308,86 +1378,27 @@ a:hover {
   color: #fffffd;
   font-family: 'Montserrat', sans-serif;
 }
-
-#menu2-b .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu2-b .navbar-toggler {
-  color: #fdfafa;
-}
-#menu2-b .close-icon::before,
-#menu2-b .close-icon::after {
-  background-color: #fdfafa;
-}
-#menu2-b .link,
-#menu2-b .dropdown-item {
-  color: #fdfafa;
-  font-family: 'Oxygen', sans-serif;
-}
-#menu2-b .link {
-  font-size: 0.95rem;
-}
-#menu2-b .dropdown-item,
-#menu2-b .nav-dropdown-sm .link {
-  font-size: 1.029rem;
-}
-#menu2-b .link:hover,
-#menu2-b .link:focus {
-  color: #dc4e24;
-}
-#menu2-b .dropdown-item:hover::before,
-#menu2-b .dropdown-item:focus::before {
-  background: #dc4e24;
-}
-#menu2-b .dropdown-item:hover,
-#menu2-b .dropdown-item:focus {
-  color: #fdfafa;
-}
-#menu2-b .link[aria-expanded="true"],
-#menu2-b .dropdown-menu {
-  background: #616161;
-}
-#menu2-b .nav-dropdown-sm .link:focus,
-#menu2-b .nav-dropdown-sm .link:hover,
-#menu2-b .nav-dropdown-sm .dropdown-item:focus,
-#menu2-b .nav-dropdown-sm .dropdown-item:hover {
-  background: #595959!important;
-}
-#menu2-b .navbar,
-#menu2-b .nav-dropdown-sm,
-#menu2-b .nav-dropdown-sm .link[aria-expanded="true"],
-#menu2-b .nav-dropdown-sm .dropdown-menu {
-  background: #616161;
-}
-#menu2-b .bg-color.transparent .link {
-  color: #fdfafa;
-  transition: none;
-}
-#menu2-b .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu2-b .bg-color.transparent.opened .link:hover,
-#menu2-b .bg-color.transparent.opened .link:focus {
-  color: #dc4e24;
-}
-#menu2-b .link[aria-expanded="true"],
-#menu2-b .dropdown-item[aria-expanded="true"] {
-  color: #dc4e24!important;
-}
-#content5-14 .mbr-section-title,
-#content5-14 .mbr-section-subtitle {
+#content5-4x .mbr-section-title,
+#content5-4x .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#content5-14 .mbr-table-cell {
+#content5-4x .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-4x .mbr-table-cell {
   vertical-align: middle;
 }
-#content5-14 .heading-text {
+#content5-4x .heading-text {
   font-size: 18px;
 }
-#content5-14 .heading-title {
+#content5-4x .heading-title {
   font-size: 60px;
   color: #fffffd;
+}
+#content5-4x .btn {
+  font-size: 20px;
 }
 #form3-13 .card {
   background-color: transparent;
@@ -1481,14 +1492,21 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-4r .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-4r .mbr-table-cell {
   vertical-align: middle;
 }
 #content5-4r .heading-text {
   font-size: 22px;
+  color: #fffffd;
+  text-align: left;
 }
 #content5-4r .heading-title {
-  color: #1415d6;
+  color: #fffffd;
+  text-align: left;
 }
 #content8-4s P {
   font-size: 46px;
@@ -1521,14 +1539,14 @@ a:hover {
 #menu2-1w .link,
 #menu2-1w .dropdown-item {
   color: #fdfafa;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 #menu2-1w .link {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
 }
 #menu2-1w .dropdown-item,
 #menu2-1w .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 1.029rem;
 }
 #menu2-1w .link:hover,
 #menu2-1w .link:focus {
@@ -1578,6 +1596,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
+#content5-1x .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #content5-1x .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1587,51 +1609,73 @@ a:hover {
 #content5-1x .heading-text B {
   color: #000000;
 }
-#features18-1y .card .mbr-iconfont {
-  color: #fff;
-  border-color: #fff;
+#features18-4y .card .mbr-iconfont {
+  color: #e9361a;
+  border-color: #e9361a;
 }
-#features18-1y .mbr-table-cell {
+#features18-4y .mbr-table-cell {
   vertical-align: middle;
 }
-#features18-1y .heading-title {
+#features18-4y .heading-title {
   font-size: 30px;
   color: #fffffd;
 }
-#features18-1y .heading-text {
+#features18-4y .heading-text {
   font-size: 19px;
   font-family: 'Lora', serif;
-  color: #fffffd;
+  color: #1415d6;
 }
-#features18-1y P {
-  color: #fffffd;
+#features18-4y P {
+  color: #000000;
   font-size: 30px;
 }
-#features18-1y .card-title {
+#features18-4y .card-title {
   font-family: 'Lora', serif;
-  color: #fffffd;
+  color: #1415d6;
   text-align: center;
   font-size: 18px;
 }
-#features18-1y .card-title DIV {
-  color: #fffffd;
+#features18-4y .card-title DIV {
+  color: #1415d6;
   font-family: 'Lora', serif;
   font-size: 18px;
 }
-#features18-1y .heading-title B {
-  color: #fffffd;
+#features18-4y .heading-title B {
+  color: #1415d6;
   font-size: 36px;
   font-family: 'Roboto', sans-serif;
 }
-#features18-1y .heading-text B {
+#features18-4y .heading-text B {
   color: #fffffd;
   font-family: 'Lora', serif;
   font-size: 20px;
 }
-#features18-1y .card-title B {
+#features18-4y .card-title B {
   color: #fffffd;
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
+}
+#content5-4z .mbr-section-title,
+#content5-4z .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-4z .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-4z .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-4z .heading-text {
+  font-size: 18px;
+}
+#content5-4z .heading-title {
+  font-size: 60px;
+  color: #fffffd;
+}
+#content5-4z .btn {
+  font-size: 20px;
 }
 
 #menu2-2i .hide-buttons .nav-btn {
@@ -1647,14 +1691,14 @@ a:hover {
 #menu2-2i .link,
 #menu2-2i .dropdown-item {
   color: #fdfafa;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Oxygen', sans-serif;
 }
 #menu2-2i .link {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
 }
 #menu2-2i .dropdown-item,
 #menu2-2i .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 1.029rem;
 }
 #menu2-2i .link:hover,
 #menu2-2i .link:focus {
