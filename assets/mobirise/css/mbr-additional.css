@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -653,14 +654,11 @@ a:hover {
   font-size: 18px;
 }
 #content5-54 .heading-title {
-  font-size: 60px;
-  color: #fffffd;
+  font-size: 48px;
+  color: #3410f1;
 }
 #content5-54 .btn {
   font-size: 20px;
-}
-#video2-43 DIV {
-  font-size: 30px;
 }
 #header4-8 .mbr-iconfont {
   color: undefined;
@@ -844,6 +842,36 @@ a:hover {
 #msg-box5-3c .round-text {
   color: #fff;
 }
+#msg-box3-5g H1 {
+  color: #000000;
+  font-size: 25px;
+  text-align: left;
+}
+#msg-box3-5g P {
+  color: #ffffff;
+}
+#msg-box3-5g .round-text {
+  text-align: left;
+  color: #000000;
+  font-size: 20px;
+}
+#msg-box3-5g B {
+  color: #000000;
+}
+#msg-box5-5k .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#msg-box5-5k .round-text {
+  color: #fff;
+}
+#msg-box5-5l .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#msg-box5-5l .round-text {
+  color: #fff;
+}
 #buttons1-40 .btn {
   font-size: 24px;
 }
@@ -899,28 +927,6 @@ a:hover {
 #content5-4g .heading-title B {
   font-size: 48px;
   color: #000000;
-}
-#content5-53 .mbr-section-title,
-#content5-53 .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
-}
-#content5-53 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
-#content5-53 .mbr-table-cell {
-  vertical-align: middle;
-}
-#content5-53 .heading-text {
-  font-size: 18px;
-}
-#content5-53 .heading-title {
-  font-size: 60px;
-  color: #fffffd;
-}
-#content5-53 .btn {
-  font-size: 20px;
 }
 #share1-w .mbr-section-title {
   font-size: 30px;
@@ -1139,6 +1145,9 @@ a:hover {
 #slider2-4l .mbr-section-title {
   color: #fdde19;
 }
+#buttons1-5c .btn {
+  font-size: 24px;
+}
 #content5-i .mbr-section-title,
 #content5-i .mbr-section-subtitle {
   margin-bottom: 1rem;
@@ -1158,6 +1167,9 @@ a:hover {
 #content5-i .heading-text {
   font-size: 20px;
   color: #fffffd;
+}
+#buttons1-5d .btn {
+  font-size: 24px;
 }
 #content5-j .mbr-section-title,
 #content5-j .mbr-section-subtitle {
@@ -1184,6 +1196,12 @@ a:hover {
 }
 #content5-j .heading-text B {
   color: #fffffd;
+}
+#gallery1-5b .mbr-gallery-title {
+  color: #fffffd;
+}
+#buttons1-5e .btn {
+  font-size: 24px;
 }
 #features7-4p .mbr-iconfont {
   color: undefined;
@@ -1492,10 +1510,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#content5-4r .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #content5-4r .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1759,6 +1773,8 @@ a:hover {
   vertical-align: middle;
 }
 
+
+
 #menu2-3h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1886,9 +1902,11 @@ a:hover {
 }
 #content5-3w .heading-text {
   font-size: 22px;
+  color: #000000;
 }
 #content5-3w .heading-title {
   font-size: 25px;
+  color: #000000;
 }
 #content5-3w .btn {
   font-size: 22px;
@@ -1916,4 +1934,28 @@ a:hover {
 #slider2-47 .mbr-section-title,
 #slider2-47 .mbr-section-text {
   color: #fff;
+}
+#content7-59 .mbr-section-title,
+#content7-59 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #fff;
+}
+#content7-59 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content7-59 .mbr-table-cell {
+  vertical-align: middle;
+}
+#content7-59 .heading-text {
+  font-size: 36px;
+  color: #fffffd;
+  font-family: 'Indie Flower', cursive;
+}
+#content7-59 .heading-title {
+  font-size: 80px;
+  font-family: 'Indie Flower', cursive;
+}
+#footer4-2b p {
+  color: #000;
 }
